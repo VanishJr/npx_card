@@ -4,7 +4,7 @@
   "description": "A personal card for Logutov Ivan (@VanishJr)",
   "main": "card.js",
   "bin": {
-    "anmol": "./card.js"
+    "vanishjr": "./card.js"
   },
   "repository": {
     "type": "git",
