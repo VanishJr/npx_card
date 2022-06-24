@@ -65,7 +65,7 @@ const questions = [
 
 const data = {
     name: chalk.bold.green("             Logutov Ivan Olegovich"),
-    handle: chalk.white("@VanishJr"),
+    handle: chalk.white("@vanishjr"),
     work: `${chalk.white("Software Engineer ")}`,
     github: chalk.gray("https://github.com/") + chalk.green("VanishJr"),
     linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("ivan-logutov-a3a3bb233"),

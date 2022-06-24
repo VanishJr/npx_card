@@ -1,7 +1,7 @@
 {
   "name": "vanishjr",
   "version": "4.0.0",
-  "description": "A personal card for Logutov Ivan (@VanishJr)",
+  "description": "A personal card for Logutov Ivan (@vanishjr)",
   "main": "card.js",
   "bin": {
     "vanishjr": "./card.js"
