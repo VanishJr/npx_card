@@ -67,8 +67,8 @@ const data = {
     name: chalk.bold.green("             Logutov Ivan Olegovich"),
     handle: chalk.white("@VanishJr"),
     work: `${chalk.white("Software Engineer ")}`,
-    github: chalk.gray("https://github.com/") + chalk.green("anmol098"),
-    linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("anmol098"),
+    github: chalk.gray("https://github.com/") + chalk.green("VanishJr"),
+    linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("ivan-logutov-a3a3bb233"),
     npx: chalk.red("npx") + " " + chalk.white("CVanishJr"),
 
     labelWork: chalk.white.bold("       Work:"),
